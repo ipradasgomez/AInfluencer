@@ -1,0 +1,9 @@
+pip install moviepy
+pip install -U openai-whisper
+pip install setuptools-rust
+pip install ffmpeg-python
+pip install openai==0.28
+pip install pydub
+pip install vosk
+
+(Tener ffmpeg en el sistema)
